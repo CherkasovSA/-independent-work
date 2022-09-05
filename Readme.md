@@ -14,7 +14,7 @@
 
 ##### Ниже пример кода из нашего приложения: #####
 
-```ccs
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
